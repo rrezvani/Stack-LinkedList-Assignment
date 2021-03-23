@@ -8,5 +8,5 @@ Files: main.cpp / RPNCalc.h / RPNCalc.cpp / linkedlist.h / GenStack.h / FileProc
 Known errors: None\
 Sources: 
 https://stackoverflow.com/questions/63647280/how-to-turn-char-of-2-into-integer-2-in-c\
-https://stackoverflow.com/questions/43629363/how-to-check-if-a-string-contains-a-char\
+https://stackoverflow.com/questions/43629363/how-to-check-if-a-string-contains-a-char\ \
 Instructions: g++ *.cpp, ./a.out
